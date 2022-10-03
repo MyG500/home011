@@ -1,0 +1,138 @@
+.container {
+    height: 40vh;
+    margin: 2rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
+
+.cell {
+    color: white;
+    float: right;
+    text-align: right font-family: 'Courier New', Courier, monospace;
+    font color: #445118 font-size: 15cm;
+}
+
+
+
+.cell-1 {
+    border: 10px solid rgb(0, 0, 0);
+    background: rgb(211, 241, 139);
+    height: 40vh;
+    margin: 2rem;
+    display: flex;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    padding: 10px;
+
+}
+
+.cell-2 {
+
+    border: 10px solid rgb(0, 0, 0);
+    background: rgb(211, 147, 91);
+    height: 40vh;
+    margin: 2rem;
+    display: flex;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    padding: 10px;
+}
+
+.cell-3 {
+
+    border: 10px solid rgb(0, 0, 0);
+    background: rgb(225, 65, 65);
+    height: 40vh;
+    margin: 2rem;
+    display: flex;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    padding: 10px;
+
+}
+
+.cell img {
+
+    width: 100%;
+    height: 38vh;
+    object-fit: cover;
+}
+
+.cell-4 {
+
+    border: 10px solid rgb(0, 0, 0);
+    background: rgb(214, 124, 195);
+    height: 40vh;
+    margin: 2rem;
+    display: flex;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    padding: 10px;
+}
+
+.cell-5 {
+
+    border: 10px solid rgb(0, 0, 0);
+    background: rgb(79, 114, 211);
+    height: 40vh;
+    margin: 2rem;
+    display: flex;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    padding: 10px;
+}
+
+.cell-6 {
+
+    border: 10px solid rgb(0, 0, 0);
+    background: limegreen;
+    height: 40vh;
+    margin: 2rem;
+    display: flex;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    padding: 10px;
+}
+
+.cell-7 {
+
+    border: 10px solid rgb(0, 0, 0);
+    background: rgb(212, 232, 110);
+    height: 40vh;
+    margin: 2rem;
+    display: flex;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    padding: 10px;
+}
+
+
+
+
+.cell-8 {
+
+    border: 10px solid rgb(0, 0, 0);
+    background: rgb(223, 156, 75);
+    height: 40vh;
+    margin: 2rem;
+    display: flex;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    padding: 10px;
+}
+
+
+
+.cell-9 {
+
+    border: 10px solid rgb(0, 0, 0);
+    background: rgb(223, 156, 75);
+    height: 40vh;
+    margin: 2rem;
+    display: flex;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    padding: 10px;
+}
